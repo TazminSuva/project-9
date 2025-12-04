@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Lego Creative Building Set",
+    "category": "Building Blocks",
+    "seller": "ToyZone",
+    "rating": 4.8,
+    "available": "In Stock",
+    "price": 25,
+    "img": "https://images.unsplash.com/photo-1655009316723-e4af5fe7afe1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
+  },
+  {
+    "id": 2,
+    "title": "Barbie Dream Doll",
+    "category": "Dolls",
+    "seller": "FunStore",
+    "rating": 4.6,
+    "available": "In Stock",
+    "price": 30,
+    "img": "https://plus.unsplash.com/premium_photo-1702498664869-47f37ff07088?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2070"
+  },
+  {
+    "id": 3,
+    "title": "Remote Control Car",
+    "category": "Vehicles",
+    "seller": "SpeedyToys",
+    "rating": 4.9,
+    "available": "Limited Stock",
+    "price": 45,
+    "img": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 4,
+    "title": "Teddy Bear Plush",
+    "category": "Soft Toys",
+    "seller": "CuddleCorner",
+    "rating": 4.7,
+    "available": "In Stock",
+    "price": 20,
+    "img": "https://images.unsplash.com/photo-1501686637-b7aa9c48a882?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=735"
+  },
+  {
+    "id": 5,
+    "title": "Wooden Train Set",
+    "category": "Educational",
+    "seller": "TinyWorld",
+    "rating": 4.5,
+    "available": "In Stock",
+    "price": 35,
+    "img": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1175"
+  },
+  {
+    "id": 6,
+    "title": "Musical Piano Toy",
+    "category": "Musical Toys",
+    "seller": "HappyTunes",
+    "rating": 4.9,
+    "available": "In Stock",
+    "price": 40,
+    "img": "https://images.unsplash.com/photo-1599623560574-39d485900c95?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 7,
+    "title": "Colorful Puzzle Set",
+    "category": "Puzzles",
+    "seller": "SmartPlay",
+    "rating": 4.8,
+    "available": "In Stock",
+    "price": 18,
+    "img": "https://images.unsplash.com/photo-1573297663823-b4d453566b32?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 8,
+    "title": "Mini Kitchen Playset",
+    "category": "Role Play",
+    "seller": "LittleChef",
+    "rating": 4.7,
+    "available": "In Stock",
+    "price": 32,
+    "img": "https://images.unsplash.com/photo-1722814044999-03bf427e0076?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 9,
+    "title": "Toy Airplane",
+    "category": "Vehicles",
+    "seller": "SkyPlay",
+    "rating": 4.6,
+    "available": "Limited Stock",
+    "price": 28,
+    "img": "https://plus.unsplash.com/premium_photo-1702498664908-a5d303207ab7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687"
+  },
+  {
+    "id": 10,
+    "title": "Robot Action Figure",
+    "category": "Action Toys",
+    "seller": "RoboLand",
+    "rating": 4.8,
+    "available": "In Stock",
+    "price": 50,
+    "img": "https://images.unsplash.com/photo-1612355524120-462e49e4ffe6?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 11,
+    "title": "Baby Rattle Set",
+    "category": "Baby Toys",
+    "seller": "SoftNest",
+    "rating": 4.5,
+    "available": "In Stock",
+    "price": 15,
+    "img": "https://images.unsplash.com/photo-1500995617113-cf789362a3e1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  },
+  {
+    "id": 12,
+    "title": "Toy Drum Kit",
+    "category": "Musical Toys",
+    "seller": "BeatBox",
+    "rating": 4.9,
+    "available": "In Stock",
+    "price": 42,
+    "img": "https://plus.unsplash.com/premium_photo-1701984401589-08e3b5c576c9?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+  }
+]
