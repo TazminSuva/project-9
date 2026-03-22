@@ -73,7 +73,6 @@ export default function SignUp() {
             required
           />
 
-          {/* Photo URL */}
           <label className="block text-gray-700">Photo URL</label>
           <input
             type="text"
