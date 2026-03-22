@@ -72,7 +72,6 @@ export default function SignUp() {
             onChange={(e) => setName(e.target.value)}
             required
           />
-
           <label className="block text-gray-700">Photo URL</label>
           <input
             type="text"
